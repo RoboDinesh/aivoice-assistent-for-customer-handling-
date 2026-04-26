@@ -2,7 +2,7 @@
  * Voice Agent for Sudur Pickles | Kannada Version (ಕನ್ನಡ)
  */
 
-const API_KEY = "AIzaSyCiDcqvl7kkBrz3PMkYtkUCRgTbQHBJzr8";
+const API_KEY = "YOUR_GEMINI_API_KEY_HERE";
 
 // 1. KANNADA KNOWLEDGE BASE (INSTANT)
 const KNOWLEDGE_BASE = {
